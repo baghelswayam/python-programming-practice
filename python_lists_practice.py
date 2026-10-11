@@ -54,3 +54,7 @@ b.append(100)
 print(a)
 print(b)
 
+#Check the length of a list
+a =[10,20,30,40,50]
+print("Length of list:",len(a))
+
